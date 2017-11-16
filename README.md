@@ -17,6 +17,7 @@
 
 
 彩色框框   alt       q/w/e/r红黄灰绿
+
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/cskk.gif)
 
 
@@ -24,13 +25,17 @@
 图略了
 
 超级标题   alt       a
+
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/bt.gif)
 
 引用       alt       s
+
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/yinyong.gif)
 
 虚线       alt       d
+
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/xvxian.gif)
 
 方框/代码  alt       f
+
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/fangkuang.gif)
