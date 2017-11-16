@@ -13,11 +13,11 @@
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/cskk.gif)  
 常规标题   alt+1/2/3/4  
 图略了  
-超级标题　　alt　+　a  
+超级标题　　alt　+　a  
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/bt.gif)  
-引用　　alt　+　s  
+引用　　alt　+　s  
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/yinyong.gif)  
 虚线　　alt　+　d  
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/xvxian.gif)  
 方框/代码  alt　+　f  
-![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/fangkuang.gif)
+![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/fangkuang.gif)  
