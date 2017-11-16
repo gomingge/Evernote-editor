@@ -6,11 +6,13 @@
 2,下载此印象笔记AHK脚本
 
 3,参考下图
-字体颜色   alt+shift 1/2/3/4红蓝灰绿
+字体颜色   alt+shift 1/2/3/4红蓝灰绿
+
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/ziys.gif)
 
 
 背景颜色   alt+ctrl  1/2/3/4红蓝灰绿
+
 ![Image text](https://github.com/gomingge/Evernote-editor/blob/picture-description/bjys.gif)
 
 
