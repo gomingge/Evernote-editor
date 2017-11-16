@@ -3,7 +3,7 @@
 
 1,去官网安装autohotkey 地址https://autohotkey.com/download/
 
-2,下载此印象笔记AHK脚本
+2,下载此印象笔记AHK脚本,并双击打开(双击即可.没有打开动画效果)
 
 3,参考下图
 
